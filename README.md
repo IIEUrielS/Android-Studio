@@ -5,4 +5,5 @@ Este proyecto es un prototipo de casa domótica donde se utilizó una comunicaci
 
 
 Plataformas utilizadas: Arduino Ide, Firebase y Android Studio
+
 Lenguaje Utilizado: Java, C y C++
