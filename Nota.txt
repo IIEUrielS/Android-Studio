@@ -1,0 +1,6 @@
+Para abrir el proyecto en Android Studio solo se requiere: 
+
+1..Instalar la aplicación 
+2..Abrir la app y en:
+    -->Open an Existing Project
+    -->Buscar la carpeta "Proyecto Final" en el explorador de Windows donde se haya guardado
